@@ -2,7 +2,8 @@
   "name": "mern_shopping_list",
   "version": "1.0.0",
   "engines": {
-    "node": "12.13.1"
+    "node": "12.13.1",
+    "npm": "6.12.1"
   },
   "description": "Shopping List built with the MERN stack",
   "main": "server.js",
